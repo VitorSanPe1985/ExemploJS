@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1,5;
+    font-size: large;
+    color: yellow;
+    text-align:center;
+}
+
+label {
+    font-size: larger;
+    font-style: italic;
+}
+
+button {
+    text-align:center;
+}
